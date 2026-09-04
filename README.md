@@ -4,7 +4,7 @@
 
 ### Full-Stack & Mobile Engineer — AI-Integrated Systems, ISP Infrastructure, IoT
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tengku-achmad-abdul-rahman-a0b400377)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tengku-achmads)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:achmad.tengku@gmail.com)
 [![Location](https://img.shields.io/badge/Bandung%2C%20Indonesia-555?style=flat-square&logo=googlemaps&logoColor=white)]()
 
@@ -99,9 +99,9 @@ Offline-first mobile app for ISP infrastructure audits — geospatial asset mapp
 
 <div align="center">
 
-<!-- Replace YOUR_GITHUB_USERNAME below with your actual GitHub handle to activate these -->
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true" height="165" alt="GitHub streak" />
+<!-- Replace TengkuAchmad below with your actual GitHub handle to activate these -->
+<img src="https://github-readme-stats.vercel.app/api?username=TengkuAchmad&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TengkuAchmad&hide_border=true" height="165" alt="GitHub streak" />
 
 </div>
 
