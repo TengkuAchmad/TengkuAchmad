@@ -91,6 +91,6 @@ Offline-first mobile app for ISP infrastructure audits — geospatial asset mapp
 
 <div align="center">
 
-*Thanks for stopping by — let's connect on [LinkedIn](https://www.linkedin.com/in/tengku-achmad-abdul-rahman-a0b400377).*
+*Thanks for stopping by — let's connect on [LinkedIn](https://www.linkedin.com/in/tengku-achmads).*
 
 </div>
